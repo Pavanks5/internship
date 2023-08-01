@@ -1,0 +1,10 @@
+h2{
+    color:#c65757;
+    background-color: aqua;
+    text-align: center;
+}
+body {
+    background-image: url('https://th.bing.com/th/id/OIP.NmBaPbYLF0fR3EMd-ep7HwHaE8?w=255&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;

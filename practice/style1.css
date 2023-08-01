@@ -1,0 +1,25 @@
+
+p {
+    font-size: 50px;
+    color: yellow;
+    text-align: center;
+}
+
+h1 {
+    color: green;
+    font-size: 20px;
+}
+
+body {
+ / background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_mv0RQWhYw-_m0uPQnLtbBYujhexJd8N9Q&usqp=CAU');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  background-color: black;
+}
+div
+{
+background: #000000;
+text-align: center;
+text-emphasis-color: rgb(0, 217, 255);
+}
